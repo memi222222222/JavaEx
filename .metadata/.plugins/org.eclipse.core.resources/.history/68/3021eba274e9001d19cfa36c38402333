@@ -1,0 +1,36 @@
+package Quiz19;
+
+import java.util.Random;
+
+public class SetQuiz01 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 *  중복되지 않는 6자리 수 (로또번호)
+		 *  
+		 *  1. Random객체를 이용해서 1~ 45까지 랜덤한 수 생성
+		 *  2. Set에 6개의랜덤한 로또 번호를 저장.
+		 */
+		
+		
+		Random r = new Random(46);
+		
+		int i = r.nextInt();
+		System.out.println(i);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+}

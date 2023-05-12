@@ -1,0 +1,17 @@
+package _0508_day17_api_ramda_Stream;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class MainClass01 {
+
+	public static void main(String[] args) {
+		 
+		List<String> list = new ArrayList<>();
+		
+		list.add("홍길동");
+		list.add(n:"";
+		
+	}
+	
+}

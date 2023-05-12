@@ -1,0 +1,22 @@
+package dat03;
+
+import java.lang.reflect.Array;
+
+public class _0417_ArrayCopy {
+
+	public static void main(String[] args) {
+		
+		
+		// 배열의 복사 - 길이가 고정 
+		
+		// 복사의 개념 2개 - 얕은복사, 깊은복사
+		// 얕은복사 - 주소값의 복사
+		
+		int[] arr = {1,2,3,4,5};
+		int[] newArr = arr;
+		System.out.println(Arrays.toString(newArr));
+		
+		
+	}
+	
+}

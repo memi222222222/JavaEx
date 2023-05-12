@@ -1,0 +1,15 @@
+package day02;
+
+public class _0413_BreskEx03 {
+	
+	public static void main(String[] args) {
+		
+		for(char c = 'A'; c <= 'Z'; c++) {
+			for(char l = 'a'; l <= 'z'; l++) {
+				System.out.println(c + '-' + l);
+			}
+		}
+		
+	}
+
+}

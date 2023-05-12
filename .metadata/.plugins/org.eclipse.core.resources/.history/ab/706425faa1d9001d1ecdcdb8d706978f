@@ -1,0 +1,24 @@
+package day02;
+
+public class _0413_EnhanceForEx {
+
+	public static void main(String[] args) {
+		
+		int[] arr = {1,2,3,4,5,6,7};  // 배열생성
+		
+		// 향상된 for 문 - 배열같은 연속된 타입을 돌리기에 적합.
+		for(int a :arr) {
+			
+			System.out.println(a);
+		}
+		
+		System.out.println("----------------");
+		
+		String[] arr2 = {"월","화","수","목","금","금,","금"};
+		
+		for(String b : arr2) {
+			System.out.println(b);
+		}
+		
+	}
+}

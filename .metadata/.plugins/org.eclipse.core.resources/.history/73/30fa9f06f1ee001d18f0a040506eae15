@@ -1,0 +1,15 @@
+package _0510_api_thread;
+
+public class TreadTest02 extends Thread {
+
+	@Override
+	public void run() {
+		super.run();
+
+	
+	
+	
+	
+	
+	
+}

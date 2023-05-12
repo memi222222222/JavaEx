@@ -1,0 +1,18 @@
+package _0428_day12_lang_system;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+
+		// System 클래스는 전보  static 메서드로 선언되어있다.
+
+		// System.exit(0); // 시스템 강제종료
+
+		long start = System.currentTimeMillis();		
+
+		long end = System.currentTimeMillis();
+		
+		System.out.println(start);
+	}
+
+}
