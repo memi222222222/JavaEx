@@ -20,8 +20,23 @@ public class sosoo {
 
 
 
-		
-		
+		int n = 10;
+		double answer = 0;
+		//		for (int i= 1; i <= n; i++) {
+		//			if(i % 2 != 0){
+		//				
+		//				answer ++;
+		//
+		//				System.out.println(i);
+		//
+		//			}
+		//		} 
+		//		
+		//		answer = Math.sqrt();
+		System.out.println(answer);
+
+
+
 	}
 
 }
